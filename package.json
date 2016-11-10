@@ -1,0 +1,27 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "parser on node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrChukhray/parser.git"
+  },
+  "keywords": [
+    "parser",
+    "node.js"
+  ],
+  "author": "Aleksand Chukhrai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AleksandrChukhray/parser/issues"
+  },
+  "homepage": "https://github.com/AleksandrChukhray/parser#readme",
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.78.0"
+  }
+}
